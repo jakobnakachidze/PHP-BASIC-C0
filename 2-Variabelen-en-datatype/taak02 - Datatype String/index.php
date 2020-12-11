@@ -1,0 +1,4 @@
+<?php
+$voornaam = 'Jakob';
+ 'jakob'
+?>

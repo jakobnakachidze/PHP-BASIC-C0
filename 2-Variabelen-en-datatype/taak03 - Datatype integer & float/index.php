@@ -3,10 +3,12 @@
 <body>
 
 <?php
-$leeftijd = 55;
-echo $leeftijd;
-$melkprijs = 0.98;
-echo $melkprijs;
+$leeftijd == 18;
+echo  $leeftijd;
+$jaarsalaris == 64054.43;
+echo $jaarsalaris;
+
+
 ?>
 
 </body>
