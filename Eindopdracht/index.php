@@ -85,4 +85,4 @@
 </div>
 
 
-<?php include 'footer.php'; ?>
+<?php include 'C:\Users\jakob\php-basic-c0\Eindopdracht\footer.php'; ?>
